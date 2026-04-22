@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .cache/
 .ipynb_checkpoints/
+cache/
+*.log
+*.txt
+__pycache__/
